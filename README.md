@@ -25,4 +25,4 @@ Dedicated IT professional specializing in **Microsoft Azure** and **PowerShell a
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ICI_METS_LE_LIEN_VERS_TON_PROFIL_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yelli-g-8a5655257)
