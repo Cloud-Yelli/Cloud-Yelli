@@ -32,4 +32,4 @@ Dedicated IT Professional specializing in **Microsoft 365 ecosystem**, **Endpoin
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yelli-g-8a5655257/)
