@@ -1,28 +1,35 @@
-# Hi, I'm Cloud-Yelli 👋
+# Hi, I'm Yelli 👋
 
-### ☁️ Aspiring Cloud Engineer | Focus: Azure & Automation
-Dedicated IT professional specializing in **Microsoft Azure** and **PowerShell automation**. Currently building my expertise through hands-on labs and the Azure certification path (AZ-900 / AZ-104).
+### 🖥️ Modern Workplace Engineer | Intune & Entra ID Specialist
+Dedicated IT Professional specializing in **Microsoft 365 ecosystem**, **Endpoint Management (Intune)**, and **Identity Security**. I build secure, automated, and scalable modern work environments.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![EntraID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Microsoft365](https://img.shields.io/badge/Microsoft%20365-FF8C00?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-- **Identity:** Entra ID (Azure AD), RBAC, MFA, Conditional Access.
-- **Security:** BitLocker CLI, Endpoint Security, Troubleshooting.
-- **Automation:** PowerShell Scripting, Workflow optimization.
+- **Device Management:** Windows Autopilot, Compliance Policies, App Deployment (Win32/LOB).
+- **Identity & Access:** Conditional Access, MFA, RBAC, PIM.
+- **Automation:** PowerShell Scripting & Microsoft Graph API.
 
 ---
 
-### 📈 Current Learning Path
-- 🚀 **Azure Administrator (AZ-104)** labs.
-- 🔐 Advanced Identity Protection & Governance.
-- 🐍 Python for Cloud Automation.
+### 🚀 Roadmap to Modern Workplace Excellence
+- 🎯 **Current Focus:** Masterizing **Windows Autopilot** Zero-Touch Deployment.
+- 🔐 **Security:** Implementing Zero Trust architectures with **Conditional Access**.
+- 📜 **Certifications:** AZ-104 (In Progress) | MD-102 & MS-102 (Target).
+
+---
+
+### 📂 Featured Labs (Coming Soon)
+- **Zero-Touch-Lab:** Full Autopilot deployment documentation.
+- **Identity-Guard:** Security hardening for Entra ID tenants.
+- **PS-Graph-Tools:** Automation scripts for M365 administration.
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yelli-g-8a5655257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN)
