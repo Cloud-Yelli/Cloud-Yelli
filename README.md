@@ -1,35 +1,65 @@
-# Hi, I'm Yelli 👋
+# Yelli — Cloud-Yelli
 
-### 🖥️ Modern Workplace Engineer | Intune & Entra ID Specialist
-Dedicated IT Professional specializing in **Microsoft 365 ecosystem**, **Endpoint Management (Intune)**, and **Identity Security**. I build secure, automated, and scalable modern work environments.
-
----
-
-### 🛠 Tech Stack & Tools
-![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![EntraID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Microsoft365](https://img.shields.io/badge/Microsoft%20365-FF8C00?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
-- **Device Management:** Windows Autopilot, Compliance Policies, App Deployment (Win32/LOB).
-- **Identity & Access:** Conditional Access, MFA, RBAC, PIM.
-- **Automation:** PowerShell Scripting & Microsoft Graph API.
+**IT Support N1/N2 → Modern Workplace Engineer**  
+*Microsoft Entra ID · Intune · Zero Trust · MD-102 en préparation*
 
 ---
 
-### 🚀 Roadmap to Modern Workplace Excellence
-- 🎯 **Current Focus:** Masterizing **Windows Autopilot** Zero-Touch Deployment.
-- 🔐 **Security:** Implementing Zero Trust architectures with **Conditional Access**.
-- 📜 **Certifications:** AZ-104 (In Progress) | MD-102 & MS-102 (Target).
+## 🛡️ Ce que je construis
+
+Je suis en transition active du support informatique vers l'ingénierie Modern Workplace.  
+Mon approche : apprendre par la pratique, documenter chaque étape, prouver chaque compétence.
+
+**Actuellement** : Construction d'un lab Zero Trust complet sur Microsoft 365 E5  
+**Objectif** : Modern Workplace Engineer — déploiement, automatisation, sécurité des endpoints
 
 ---
 
-### 📂 Featured Labs (Coming Soon)
-- **Zero-Touch-Lab:** Full Autopilot deployment documentation.
-- **Identity-Guard:** Security hardening for Entra ID tenants.
-- **PS-Graph-Tools:** Automation scripts for M365 administration.
+## ⚙️ Stack technique
+
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yelli-g-8a5655257/)
+## 🚀 Projet principal
+
+### [EntraID Identity & Security Lab](https://github.com/Cloud-Yelli/EntraID-Identity-Security-Lab)
+
+Lab complet simulant une infrastructure d'entreprise hybride sur Microsoft 365 E5.
+
+**Ce qui est implémenté :**
+- Gouvernance des identités (groupes dynamiques OData, RBAC)
+- Zero Trust complet (Conditional Access, Geofencing, Identity Protection)
+- Modern Endpoint Management (MDM Enrollment, LAPS, droits locaux automatisés)
+- Packaging d'applications Win32 avec dépendances (7-Zip → PuTTY → Notepad++)
+- Compliance Policies avec enforcement automatique
+
+**En cours :** Autopilot · Scripts PowerShell remédiation · Graph API
+
+---
+
+## 📈 Progression
+
+| Compétence | Statut |
+|-----------|--------|
+| Microsoft Entra ID | ✅ Opérationnel |
+| Conditional Access / Zero Trust | ✅ Opérationnel |
+| Intune MDM / Compliance | ✅ Opérationnel |
+| Win32 App Packaging | ✅ Opérationnel |
+| Windows Autopilot | 🔄 En cours |
+| PowerShell / Graph API | 🔄 En cours |
+| MD-102 Endpoint Administrator | 📅 Prévu |
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/yelli-g-8a5655257/))
+
+---
+
+*"Du support au déploiement — construire plutôt que subir."*
