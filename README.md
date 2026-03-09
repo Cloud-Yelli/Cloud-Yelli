@@ -58,7 +58,7 @@ Lab complet simulant une infrastructure d'entreprise hybride sur Microsoft 365 E
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/yelli-g-8a5655257/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yelli-g-8a5655257/)]
 
 ---
 
