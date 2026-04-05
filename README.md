@@ -50,8 +50,8 @@ Lab complet simulant une infrastructure d'entreprise hybride sur Microsoft 365 E
 | Conditional Access / Zero Trust | ✅ Opérationnel |
 | Intune MDM / Compliance | ✅ Opérationnel |
 | Win32 App Packaging | ✅ Opérationnel |
-| Windows Autopilot | 🔄 En cours |
-| PowerShell / Graph API | 🔄 En cours |
+| Windows Autopilot | ✅ Opérationnel |
+| PowerShell / Graph API | ✅ Opérationnel |
 | MD-102 Endpoint Administrator | 📅 Prévu |
 
 ---
